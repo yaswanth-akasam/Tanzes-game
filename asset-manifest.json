@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yaswanth-akasam.github.io/csb-gqvpc2/static/css/main.76bb225d.chunk.css",
+    "main.js": "https://yaswanth-akasam.github.io/csb-gqvpc2/static/js/main.293fdec3.chunk.js",
+    "main.js.map": "https://yaswanth-akasam.github.io/csb-gqvpc2/static/js/main.293fdec3.chunk.js.map",
+    "runtime-main.js": "https://yaswanth-akasam.github.io/csb-gqvpc2/static/js/runtime-main.912920fe.js",
+    "runtime-main.js.map": "https://yaswanth-akasam.github.io/csb-gqvpc2/static/js/runtime-main.912920fe.js.map",
+    "static/js/2.8d3da9dd.chunk.js": "https://yaswanth-akasam.github.io/csb-gqvpc2/static/js/2.8d3da9dd.chunk.js",
+    "static/js/2.8d3da9dd.chunk.js.map": "https://yaswanth-akasam.github.io/csb-gqvpc2/static/js/2.8d3da9dd.chunk.js.map",
+    "index.html": "https://yaswanth-akasam.github.io/csb-gqvpc2/index.html",
+    "static/css/main.76bb225d.chunk.css.map": "https://yaswanth-akasam.github.io/csb-gqvpc2/static/css/main.76bb225d.chunk.css.map",
+    "static/js/2.8d3da9dd.chunk.js.LICENSE.txt": "https://yaswanth-akasam.github.io/csb-gqvpc2/static/js/2.8d3da9dd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.912920fe.js",
+    "static/js/2.8d3da9dd.chunk.js",
+    "static/css/main.76bb225d.chunk.css",
+    "static/js/main.293fdec3.chunk.js"
+  ]
+}
